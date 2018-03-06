@@ -45,7 +45,7 @@ void xor(char *pass, char *buf){
 			pos = 0;
 		}
 	}
-	printf("%s\n", final);
+	printf("%s", final);
 }
 
 /* Run the program */
