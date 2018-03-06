@@ -6,7 +6,7 @@
 
    Author: @CuPcakeN1njA
 
-   Make sure to run ./setup.sh first!
+   Make sure to run ./install.sh first!
 */
 
 #include <stdio.h>
